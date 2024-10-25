@@ -2,4 +2,6 @@ This code base contains the coded system models and scenario generation found in
 
 open "Guide for using code base PLS_IRS.pdf" for detailed information.
 
+**Requires MATLAB 2023a** release or later
+
 Credit to: Flynn Dale, UNSW Canberra, 2024.
