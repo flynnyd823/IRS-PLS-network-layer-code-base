@@ -1,6 +1,5 @@
-This code base contains the coded system models and scenario generation found in the paper: "Improving the physical layer security of an IRS-aided wireless
-environment by exploiting the network layer" 2024.
+This code base contains the coded system models and scenario generation found in my paper “Balancing Secrecy and Throughput via Network Layer Control for Intelligent Reflective Surface Aided Wireless Environments”
 
-run main.m to generate parameters and run desired simulations.
+open "Guide for using code base PLS_IRS.pdf" for detailed information.
 
-All credit to: Flynn Dale
+Credit to: Flynn Dale, UNSW Canberra, 2024.
